@@ -2,7 +2,7 @@
 FastChatApp_AndroidProject
 
 Yapacak olduğum chat uygulaması için karşılama sayfası tasarımını tamamladım.
-Giriş sayfası için belirli bir yükleme sayacı oluşturdum ve bunun için çalışan arkadaslardan yardım aldım ve kodu yazdım.
+Giriş sayfası için belirli bir yükleme sayacı oluşturdum.
 
 ![image](https://user-images.githubusercontent.com/61920968/158580774-1f7db2d6-a519-430c-bcfa-79cafa371940.png)
 ![image](https://user-images.githubusercontent.com/61920968/158580825-5e2a5983-e881-4a1d-a8f3-14ff7e4fc00a.png)
